@@ -1,3 +1,5 @@
 RENCANA PEMBELAJARANa:
 - Membuat website
 - Mempelajari JavaScript
+- Mempelajari GitHub
+- Mempelajari AI
